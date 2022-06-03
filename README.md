@@ -10,7 +10,7 @@ public void handle(User user) {
 ```
 
 ## 项目流程图
-![XINLogRecord](https://cdn.jsdelivr.net/gh/starmilkxin/picturebed/img/XINLogRecord流程图.png)
+![XINLogRecord]( https://xin-xinblog.oss-cn-shanghai.aliyuncs.com/img/XINLogRecord流程图.png)
 
 ## 项目介绍
 通过SpringBoot与自定义注解，来优雅地记录日志，实现日志对代码无侵入的效果。
